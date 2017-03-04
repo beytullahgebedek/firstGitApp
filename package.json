@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/beytullahgebedek/firstGitApp/issues"
   },
-  "homepage": "https://github.com/beytullahgebedek/firstGitApp#readme",
+  "homepage": "http://first-app-firstproject.44fs.preview.openshiftapps.com/",
   "dependencies": {
     "express": "^4.15.0"
   }
