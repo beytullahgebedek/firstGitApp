@@ -1,0 +1,22 @@
+{
+  "name": "hello-git",
+  "version": "1.0.0",
+  "description": "first git and openshift project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beytullahgebedek/firstGitApp.git"
+  },
+  "author": "Beytullah GEBEDEK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beytullahgebedek/firstGitApp/issues"
+  },
+  "homepage": "https://github.com/beytullahgebedek/firstGitApp#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
